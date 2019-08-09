@@ -1,0 +1,10 @@
+SOLID Design Principles
+- The principles were introduced by Robert C. Martin
+- The are frequently referenced in modern design pattern literature
+
+Single Responsibility Principle = Separation of Concerns
+- A class should have a single reason to change and that change should be related to primary responsibility of the class
+- This design pattern prevents the anti-pattern of having god objects
+
+Open-Closed Principle
+- Open to Extension, Closed to Modification
