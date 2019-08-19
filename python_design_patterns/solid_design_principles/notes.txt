@@ -8,3 +8,10 @@ Single Responsibility Principle = Separation of Concerns
 
 Open-Closed Principle
 - Open to Extension, Closed to Modification
+- It is much safer to extend code that has already been tested, instead of directly modifying that code in order to make you enhancements.
+
+Design Patterns
+- Outside of the stand Gang of Four design patterns, we have enterprise design patterns
+
+Combinator
+- Combines two specifications into a meta specification
