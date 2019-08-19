@@ -15,3 +15,6 @@ Design Patterns
 
 Combinator
 - Combines two specifications into a meta specification
+
+Liskov-Substitution Principle
+- Inherited classes from the base class should be able to be work correctly with a given interface
